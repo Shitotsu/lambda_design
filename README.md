@@ -1,2 +1,4 @@
-# lambda_design
-e-commerce website using php native created by lambda
+# Simple E-Commerce Website 
+E-Commerce website using native php and MySQL Database 
+
+Created by Lambda
